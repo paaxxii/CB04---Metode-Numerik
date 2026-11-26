@@ -1,4 +1,5 @@
 import numpy as np
+from PIL import Image
 
 def buat_ellipse(ukuran=200, a=60, b=40):
     yy, xx = np.mgrid[0:ukuran, 0:ukuran]
