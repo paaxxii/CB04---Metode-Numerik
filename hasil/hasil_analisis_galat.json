@@ -1,0 +1,437 @@
+{
+  "luas_referensi": 7924.0,
+  "resolusi": 1.0,
+  "variasi_h": [
+    {
+      "step": 1,
+      "h": 1.0,
+      "metode": "simpson_1_3",
+      "luas": 7922.666666666666,
+      "galat_bertanda": -1.3333333333339397,
+      "galat_absolut": 1.3333333333339397,
+      "galat_relatif_persen": 0.016826518593310698,
+      "batas_pangkas_teoretis": 29.85
+    },
+    {
+      "step": 1,
+      "h": 1.0,
+      "metode": "simpson_3_8",
+      "luas": 7921.5,
+      "galat_bertanda": -2.5,
+      "galat_absolut": 2.5,
+      "galat_relatif_persen": 0.03154972236244321,
+      "batas_pangkas_teoretis": 67.1625
+    },
+    {
+      "step": 1,
+      "h": 1.0,
+      "metode": "gabungan",
+      "luas": 7925.333333333333,
+      "galat_bertanda": 1.3333333333330302,
+      "galat_absolut": 1.3333333333330302,
+      "galat_relatif_persen": 0.016826518593299217,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 1,
+      "h": 1.0,
+      "metode": "trapesium",
+      "luas": 7924.0,
+      "galat_bertanda": 0.0,
+      "galat_absolut": 0.0,
+      "galat_relatif_persen": 0.0,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 2,
+      "h": 2.0,
+      "metode": "simpson_1_3",
+      "luas": 7941.333333333333,
+      "galat_bertanda": 17.33333333333303,
+      "galat_absolut": 17.33333333333303,
+      "galat_relatif_persen": 0.2187447417129358,
+      "batas_pangkas_teoretis": 49.50000000000001
+    },
+    {
+      "step": 2,
+      "h": 2.0,
+      "metode": "simpson_3_8",
+      "luas": 7923.75,
+      "galat_bertanda": -0.25,
+      "galat_absolut": 0.25,
+      "galat_relatif_persen": 0.003154972236244321,
+      "batas_pangkas_teoretis": 111.375
+    },
+    {
+      "step": 2,
+      "h": 2.0,
+      "metode": "gabungan",
+      "luas": 7914.666666666666,
+      "galat_bertanda": -9.33333333333394,
+      "galat_absolut": 9.33333333333394,
+      "galat_relatif_persen": 0.11778563015312897,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 2,
+      "h": 2.0,
+      "metode": "trapesium",
+      "luas": 7928.0,
+      "galat_bertanda": 4.0,
+      "galat_absolut": 4.0,
+      "galat_relatif_persen": 0.05047955577990913,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 3,
+      "h": 3.0,
+      "metode": "simpson_1_3",
+      "luas": 7938.0,
+      "galat_bertanda": 14.0,
+      "galat_absolut": 14.0,
+      "galat_relatif_persen": 0.17667844522968199,
+      "batas_pangkas_teoretis": 38.5
+    },
+    {
+      "step": 3,
+      "h": 3.0,
+      "metode": "simpson_3_8",
+      "luas": 7945.875,
+      "galat_bertanda": 21.875,
+      "galat_absolut": 21.875,
+      "galat_relatif_persen": 0.2760600706713781,
+      "batas_pangkas_teoretis": 86.62499999999999
+    },
+    {
+      "step": 3,
+      "h": 3.0,
+      "metode": "gabungan",
+      "luas": 7938.0,
+      "galat_bertanda": 14.0,
+      "galat_absolut": 14.0,
+      "galat_relatif_persen": 0.17667844522968199,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 3,
+      "h": 3.0,
+      "metode": "trapesium",
+      "luas": 7944.0,
+      "galat_bertanda": 20.0,
+      "galat_absolut": 20.0,
+      "galat_relatif_persen": 0.2523977788995457,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 4,
+      "h": 4.0,
+      "metode": "simpson_1_3",
+      "luas": 7914.666666666666,
+      "galat_bertanda": -9.33333333333394,
+      "galat_absolut": 9.33333333333394,
+      "galat_relatif_persen": 0.11778563015312897,
+      "batas_pangkas_teoretis": 64.24444444444444
+    },
+    {
+      "step": 4,
+      "h": 4.0,
+      "metode": "simpson_3_8",
+      "luas": 7882.5,
+      "galat_bertanda": -41.5,
+      "galat_absolut": 41.5,
+      "galat_relatif_persen": 0.5237253912165573,
+      "batas_pangkas_teoretis": 144.55
+    },
+    {
+      "step": 4,
+      "h": 4.0,
+      "metode": "gabungan",
+      "luas": 7861.333333333333,
+      "galat_bertanda": -62.66666666666697,
+      "galat_absolut": 62.66666666666697,
+      "galat_relatif_persen": 0.7908463738852469,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 4,
+      "h": 4.0,
+      "metode": "trapesium",
+      "luas": 7888.0,
+      "galat_bertanda": -36.0,
+      "galat_absolut": 36.0,
+      "galat_relatif_persen": 0.4543160020191822,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 5,
+      "h": 5.0,
+      "metode": "simpson_1_3",
+      "luas": 7873.333333333334,
+      "galat_bertanda": -50.66666666666606,
+      "galat_absolut": 50.66666666666606,
+      "galat_relatif_persen": 0.6394077065455082,
+      "batas_pangkas_teoretis": 76.91666666666666
+    },
+    {
+      "step": 5,
+      "h": 5.0,
+      "metode": "simpson_3_8",
+      "luas": 7846.875,
+      "galat_bertanda": -77.125,
+      "galat_absolut": 77.125,
+      "galat_relatif_persen": 0.973308934881373,
+      "batas_pangkas_teoretis": 173.0625
+    },
+    {
+      "step": 5,
+      "h": 5.0,
+      "metode": "gabungan",
+      "luas": 7856.666666666667,
+      "galat_bertanda": -67.33333333333303,
+      "galat_absolut": 67.33333333333303,
+      "galat_relatif_persen": 0.8497391889617999,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 5,
+      "h": 5.0,
+      "metode": "trapesium",
+      "luas": 7865.0,
+      "galat_bertanda": -59.0,
+      "galat_absolut": 59.0,
+      "galat_relatif_persen": 0.7445734477536597,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 6,
+      "h": 6.0,
+      "metode": "simpson_1_3",
+      "luas": 7972.0,
+      "galat_bertanda": 48.0,
+      "galat_absolut": 48.0,
+      "galat_relatif_persen": 0.6057546693589096,
+      "batas_pangkas_teoretis": 77.0
+    },
+    {
+      "step": 6,
+      "h": 6.0,
+      "metode": "simpson_3_8",
+      "luas": 7992.0,
+      "galat_bertanda": 68.0,
+      "galat_absolut": 68.0,
+      "galat_relatif_persen": 0.8581524482584554,
+      "batas_pangkas_teoretis": 173.24999999999997
+    },
+    {
+      "step": 6,
+      "h": 6.0,
+      "metode": "gabungan",
+      "luas": 7952.0,
+      "galat_bertanda": 28.0,
+      "galat_absolut": 28.0,
+      "galat_relatif_persen": 0.35335689045936397,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 6,
+      "h": 6.0,
+      "metode": "trapesium",
+      "luas": 7962.0,
+      "galat_bertanda": 38.0,
+      "galat_absolut": 38.0,
+      "galat_relatif_persen": 0.47955577990913684,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 8,
+      "h": 8.0,
+      "metode": "simpson_1_3",
+      "luas": 7861.333333333333,
+      "galat_bertanda": -62.66666666666697,
+      "galat_absolut": 62.66666666666697,
+      "galat_relatif_persen": 0.7908463738852469,
+      "batas_pangkas_teoretis": 92.8
+    },
+    {
+      "step": 8,
+      "h": 8.0,
+      "metode": "simpson_3_8",
+      "luas": 7791.0,
+      "galat_bertanda": -133.0,
+      "galat_absolut": 133.0,
+      "galat_relatif_persen": 1.678445229681979,
+      "batas_pangkas_teoretis": 208.79999999999998
+    },
+    {
+      "step": 8,
+      "h": 8.0,
+      "metode": "gabungan",
+      "luas": 7861.333333333333,
+      "galat_bertanda": -62.66666666666697,
+      "galat_absolut": 62.66666666666697,
+      "galat_relatif_persen": 0.7908463738852469,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 8,
+      "h": 8.0,
+      "metode": "trapesium",
+      "luas": 7808.0,
+      "galat_bertanda": -116.0,
+      "galat_absolut": 116.0,
+      "galat_relatif_persen": 1.463907117617365,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 10,
+      "h": 10.0,
+      "metode": "simpson_1_3",
+      "luas": 7906.666666666667,
+      "galat_bertanda": -17.33333333333303,
+      "galat_absolut": 17.33333333333303,
+      "galat_relatif_persen": 0.2187447417129358,
+      "batas_pangkas_teoretis": 100.27777777777779
+    },
+    {
+      "step": 10,
+      "h": 10.0,
+      "metode": "simpson_3_8",
+      "luas": 7833.75,
+      "galat_bertanda": -90.25,
+      "galat_absolut": 90.25,
+      "galat_relatif_persen": 1.1389449772841997,
+      "batas_pangkas_teoretis": 225.625
+    },
+    {
+      "step": 10,
+      "h": 10.0,
+      "metode": "gabungan",
+      "luas": 7773.333333333334,
+      "galat_bertanda": -150.66666666666606,
+      "galat_absolut": 150.66666666666606,
+      "galat_relatif_persen": 1.9013966010432364,
+      "batas_pangkas_teoretis": null
+    },
+    {
+      "step": 10,
+      "h": 10.0,
+      "metode": "trapesium",
+      "luas": 7840.0,
+      "galat_bertanda": -84.0,
+      "galat_absolut": 84.0,
+      "galat_relatif_persen": 1.0600706713780919,
+      "batas_pangkas_teoretis": null
+    }
+  ],
+  "dilewati": [],
+  "orde_empiris_citra": {
+    "simpson_1_3": 1.2844962507818085,
+    "simpson_3_8": 2.3377187774592327,
+    "gabungan": 1.858764947113103,
+    "trapesium": 1.843874786492606
+  },
+  "konvergensi_sin": [
+    {
+      "n": 6,
+      "h": 0.5235987755982988,
+      "galat_trapesium": 0.04590276668629345,
+      "galat_simpson_1_3": 0.0008631896735367128,
+      "galat_simpson_3_8": 0.0020098466285580763,
+      "orde_trapesium": null,
+      "orde_simpson_1_3": null,
+      "orde_simpson_3_8": null
+    },
+    {
+      "n": 12,
+      "h": 0.2617993877991494,
+      "galat_trapesium": 0.011436223415684399,
+      "galat_simpson_1_3": 5.26243411855809e-05,
+      "galat_simpson_3_8": 0.0001193864152257973,
+      "orde_trapesium": 2.004970401919552,
+      "orde_simpson_1_3": 4.03587543373574,
+      "orde_simpson_3_8": 4.073374824238211
+    },
+    {
+      "n": 24,
+      "h": 0.1308996938995747,
+      "galat_trapesium": 0.002856604196051382,
+      "galat_simpson_1_3": 3.268877160067518e-06,
+      "galat_simpson_3_8": 7.370036248399714e-06,
+      "orde_trapesium": 2.0012376505378535,
+      "orde_simpson_1_3": 4.008863198180587,
+      "orde_simpson_3_8": 4.017823158923647
+    },
+    {
+      "n": 48,
+      "h": 0.06544984694978735,
+      "galat_trapesium": 0.0007139980548673819,
+      "galat_simpson_1_3": 2.0399219380351497e-07,
+      "galat_simpson_3_8": 4.5921673175186584e-07,
+      "orde_trapesium": 2.0003091048339283,
+      "orde_simpson_1_3": 4.002209313055325,
+      "orde_simpson_3_8": 4.004424601738038
+    },
+    {
+      "n": 96,
+      "h": 0.032724923474893676,
+      "galat_trapesium": 0.00017848995524016864,
+      "galat_simpson_1_3": 1.2744635569106322e-08,
+      "galat_simpson_3_8": 2.867908710513234e-08,
+      "orde_trapesium": 2.0000772569955285,
+      "orde_simpson_1_3": 4.000551920029749,
+      "orde_simpson_3_8": 4.001104201250854
+    }
+  ],
+  "konvergensi_elips": [
+    {
+      "n": 6,
+      "h": 20.0,
+      "galat_trapesium": 537.6942595531254,
+      "galat_simpson_1_3": 214.9775119074011,
+      "galat_simpson_3_8": 262.42824592032775,
+      "orde_trapesium": null,
+      "orde_simpson_1_3": null,
+      "orde_simpson_3_8": null
+    },
+    {
+      "n": 12,
+      "h": 10.0,
+      "galat_trapesium": 191.0631151078751,
+      "galat_simpson_1_3": 75.51940029279103,
+      "galat_simpson_3_8": 92.08345069008374,
+      "orde_trapesium": 1.492736777695021,
+      "orde_simpson_1_3": 1.5092665388396236,
+      "orde_simpson_3_8": 1.5109092073614268
+    },
+    {
+      "n": 24,
+      "h": 5.0,
+      "galat_trapesium": 67.72256201670098,
+      "galat_simpson_1_3": 26.609044319642635,
+      "galat_simpson_3_8": 32.422806622583266,
+      "orde_trapesium": 1.4963408336570678,
+      "orde_simpson_1_3": 1.5049306121558115,
+      "orde_simpson_3_8": 1.5059329167387727
+    },
+    {
+      "n": 48,
+      "h": 2.5,
+      "galat_trapesium": 23.97403329934332,
+      "galat_simpson_1_3": 9.391190393556826,
+      "galat_simpson_3_8": 11.438734691975696,
+      "orde_trapesium": 1.498163910074867,
+      "orde_simpson_1_3": 1.502536750578692,
+      "orde_simpson_3_8": 1.5030815049231436
+    },
+    {
+      "n": 96,
+      "h": 1.25,
+      "galat_trapesium": 8.481505423465933,
+      "galat_simpson_1_3": 3.317329464838622,
+      "galat_simpson_3_8": 4.039808872782487,
+      "orde_trapesium": 1.4990803793242238,
+      "orde_simpson_1_3": 1.5012857379571645,
+      "orde_simpson_3_8": 1.5015685312443465
+    }
+  ]
+}
