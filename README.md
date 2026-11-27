@@ -23,10 +23,9 @@ Proyek ini menghitung **luas objek geografis** dari citra hasil segmentasi denga
 ├── diferensial.py       # Central Difference, magnitudo, peta tepi   
 ├── analisis_galat.py    # galat absolut/relatif/pangkas, uji variasi h 
 ├── data_sampel.py       # data sintetis & pemuat citra -> mask
-├── data/                # taruh citra segmentasi di sini
-├── hasil/               # keluaran: grafik & JSON (dibuat otomatis)
-├── tests/test_integral.py
-├── docs/bab_integral.md # draf Bab Integral untuk laporan
+├── data/                
+├── hasil/                
+├── CB 04 - Metode Numerik.pdf 
 └── requirements.txt
 ```
 
