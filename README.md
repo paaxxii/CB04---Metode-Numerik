@@ -25,7 +25,7 @@ Proyek ini menghitung **luas objek geografis** dari citra hasil segmentasi denga
 ├── data_sampel.py       # data sintetis & pemuat citra -> mask
 ├── data/                
 ├── hasil/                
-├── CB 04 - Metode Numerik.pdf 
+├── CB 04-Metode Numerik.pdf 
 └── requirements.txt
 ```
 
