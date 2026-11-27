@@ -1,4 +1,4 @@
-# LK-04 Metode Numerik — Estimasi Luas Wilayah dan Ekstraksi Tepi Citra Digital
+# CB-04 Metode Numerik — Estimasi Luas Wilayah dan Ekstraksi Tepi Citra Digital
 
 Mata kuliah **Metode Numerik (CIF63309)** — Teknik Informatika, Universitas Brawijaya, Semester Ganjil 2026/2027.
 
